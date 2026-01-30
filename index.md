@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# ⚠️ Under Construction ⚠️
 
-You can use the [editor on GitHub](https://github.com/ilenoob/ilenoob.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are currently building something amazing!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is temporarily unavailable while we perform essential maintenance and upgrades.
 
-### Markdown
+## What's Happening?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We're working hard behind the scenes to improve your experience. Our goal is to launch soon with new features and a fresh look.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### **Estimated Launch Date: Spring 2026**
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Stay Tuned!
 
-**Bold** and _Italic_ and `Code` text
+We appreciate your patience. Please check back with us shortly.
 
-[Link](url) and ![Image](src)
-```
+In the meantime, you can reach us via:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*   **Email:** [support@lenoob.com](mailto:support@lenoob.com)
 
-### Jekyll Themes
+Thank you for visiting!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ilenoob/ilenoob.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***
+© 2026 LeNoob Company. All rights reserved.
+***
